@@ -1,4 +1,4 @@
-# Aplicação Básica Desenvolvida com MEAN Stack
+# Basic MEAN Stack App
 Esta aplicação foi desenvolvida esenvolvida para compor um trabalho final da Pós Graduação em MBA para Desenvolvimento de Aplicações em Dispositivos Mobile, da Faculdade Cidade Verde (FCV) em Maringá - Paraná.
 O conteúdo foi desenvolvido utilizando:
 <ul>
