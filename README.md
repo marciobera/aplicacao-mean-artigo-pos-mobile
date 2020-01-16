@@ -1,6 +1,8 @@
 # Basic MEAN Stack App
-Esta aplicação foi desenvolvida esenvolvida para compor um trabalho final da Pós Graduação em MBA para Desenvolvimento de Aplicações em Dispositivos Mobile, da Faculdade Cidade Verde (FCV) em Maringá - Paraná.
-O conteúdo foi desenvolvido utilizando:
+This application was developed to compose a final post-graduate article in MBA for Application Development on Mobile Devices, from Cidade Verde College (FCV) in Maringá - Paraná (Brazil).
+
+The content was developed using the following technologies:
+
 <ul>
 <li><b>M</b>ongoDB;</li>
 <li><b>E</b>xpress.js;</li>
@@ -8,5 +10,5 @@ O conteúdo foi desenvolvido utilizando:
 <li><b>N</b>ode.js.</li>
 </ul>
 
-Esta aplicação foi bem simples, principalmente o desenvolvimento do frontend em Angular. 
-Todas as contribuições são bem-vindas! :)
+This application was very simple, mainly the development of the Angular frontend.
+All contributions are welcome! :)
